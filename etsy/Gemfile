@@ -1,0 +1,7 @@
+source :rubygems
+
+gem 'taza', :path => "/Users/ThoughtWorks/Projects/taza/", :branch => "19-support"
+gem 'cucumber'
+gem 'selenium-webdriver'
+gem 'sim_launcher'
+gem "watir",   :platforms => [:mingw, :mswin]
